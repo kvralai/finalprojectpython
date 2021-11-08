@@ -10,7 +10,7 @@ A discord bot that completely randomizes a user with someone whose interests are
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-A bot will ask set of different questions, from "what is your favorite color?" to "do you like anime?"
+A bot will ask set of different questions, from "what is your favorite color?" to "do you like anime?". After that it will analyze your answers (y/n) and match you with complete opposite of you. Of course there might be no one like you, but we will set a percentage of difference making the work easier. After the work you are free to message them.
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
